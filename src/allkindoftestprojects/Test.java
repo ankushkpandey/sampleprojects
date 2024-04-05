@@ -1,5 +1,7 @@
 package allkindoftestprojects;
 
+import java.util.HashMap;
+
 public class Test {
     private int i =0;
 
@@ -11,4 +13,6 @@ public class Test {
         System.out.println("Test is being Done");
         return 0;
     }
+
+    HashMap<String, Integer> newMap = new HashMap<>("fgf", )
 }
